@@ -2,4 +2,6 @@
     <string name="app_name">Jet2ArticalAssignment</string>
     <string name="articles">Articles</string>
     <string name="loading_more">Loading more...</string>
+    <string name="format_like">%1$s Likes</string>
+    <string name="format_comment">%1$s Comments</string>
 </resources>

@@ -3,5 +3,6 @@ package com.kk.jet2articalassignment.utils
 enum class LoadStatus {
     SUCCESS,
     ERROR,
-    LOADING
+    LOADING,
+    LOAD_MORE
 }

@@ -33,7 +33,7 @@ object FormatorUtils {
                 count++
             }
 
-            return value.toString() + "  " + suffix[count]
+            return value.toString() + " " + suffix[count]
 
         } catch (e: ParseException) {
             System.out.println(e)

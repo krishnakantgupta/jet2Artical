@@ -10,4 +10,8 @@ data class UserInfo(
     val city: String,
     val designation: String,
     val about: String
-)
+) {
+    fun getFullName(): String {
+        return name + " " + lastname
+    }
+}
