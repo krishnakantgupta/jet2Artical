@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jet2ArticalAssignment</string>
+    <string name="articles">Articles</string>
+    <string name="loading_more">Loading more...</string>
 </resources>
